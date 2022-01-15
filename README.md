@@ -1,2 +1,2 @@
 # transfer-learning-nlp-tf-hub
-Using pre-trained models from TensorFlow Hub with tf.keras for text classification
+TensorFlow Hub is a repository of pre-trained TensorFlow models. In this project, we use pre-trained models from TensorFlow Hub with tf.keras for text classification. Transfer learning makes it possible to save training resources and to achieve good model generalization even when training on a small dataset. We will demonstrate this by training with several different TF-Hub modules.
